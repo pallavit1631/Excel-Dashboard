@@ -1,2 +1,4 @@
 # Excel-Dashboard
-This consists of a Dataset of Online E-Commerce Company. We have to design a Sales dashboard to analyze the sales based on various product categories. 
+This consists of a Dataset of Online E-Commerce Company. Designing a Sales dashboard to analyze the sales based on various product categories. 
+
+This consists of a Dataset of pharmaceutical company. Designing a dashboard to analyze the sales of products across various regions and brands
